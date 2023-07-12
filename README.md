@@ -4,102 +4,102 @@ Reference can be found here :
 * https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
 * https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/
 
-* [ ] Statements & Operators
-	* [ ] Statements
-	* [ ] Expressions
-	* [ ] Anonymous Functions
-	* [ ] Equality and Equality Comparisons
-* [ ] Types
-   * [ ] Data Types
-   * [ ] Boxing and Unboxing
-   * [ ] String & Numeric Types
-   * [ ] Type Dynamics
-   * [ ] Date time handling
-   * [ ] others specified in above reference
+* [x] Statements & Operators
+	* [x] Statements
+	* [x] Expressions
+	* [x] Anonymous Functions
+	* [x] Equality and Equality Comparisons
+* [x] Types
+   * [x] Data Types
+   * [x] Boxing and Unboxing
+   * [x] String & Numeric Types
+   * [x] Type Dynamics
+   * [x] Date time handling
+   * [x] others specified in the above reference
 
-* [ ] Casting
-	* [ ] What
-	* [ ] Syntax
-	* [ ] Quirks 
-		* [ ] Data loss on some specific cases
-		* [ ] Wrong conversion for some data types etc  
+* [x] Casting
+	* [x] What
+	* [x] Syntax
+	* [x] Quirks 
+		* [x] Data loss in some specific cases
+		* [x] Wrong conversion for some data types etc  
 
-* [ ] Classes
-	* [ ] Objects
-	* [ ] Structures
-	* [ ] Inheritance 
-	* [ ] Polymorphism 
-	* [ ] Members
-	* [ ] Properties 
-	* [ ] Methods
-	* [ ] Constructors
-	* [ ] Finalizers / Desctructors 
-	* [ ] Partial Class
-	* [ ] Nested Types
-	* [ ] Anonymous Types
-* [ ] Interfaces
-* [ ] Delegates 
-* [ ] Arrays
-* [ ] Strings
-* [ ] Indexers
-* [ ] Events
-	* [ ] Keyboard Events
-	* [ ] Mouse Events
-* [ ] Generics
-	* [ ] What are they
-	* [ ] Why
-	* [ ] How to create custom Generic methods
-	* [ ] Tradeoffs and advantage
-	* [ ] Generic Type Parameters
-	* [ ] Generic Classes
-	* [ ] Generic Interfaces
-	* [ ] Generic Methods
-	* [ ] Generics and Arrays
-	* [ ] Generic Delegates
-	* [ ] Generics and Reflection
-	* [ ] Generics and Attributes
-* [ ] Namespaces
-* [ ] Unsafe code and Points
-* [ ] Exception and Exception Handling
-* [ ] File System and File Handling
+* [x] Classes
+	* [x] Objects
+	* [x] Structures
+	* [x] Inheritance 
+	* [x] Polymorphism 
+	* [x] Members
+	* [x] Properties 
+	* [x] Methods
+	* [x] Constructors
+	* [x] Finalizers / Desctructors 
+	* [x] Partial Class
+	* [x] Nested Types
+	* [x] Anonymous Types
+* [x] Interfaces
+* [x] Delegates 
+* [x] Arrays
+* [x] Strings
+* [x] Indexers
+* [x] Events
+	* [x] Keyboard Events
+	* [x] Mouse Events
+* [x] Generics
+	* [x] What are they
+	* [x] Why
+	* [x] How to create custom Generic methods
+	* [x] Tradeoffs and advantage
+	* [x] Generic Type Parameters
+	* [x] Generic Classes
+	* [x] Generic Interfaces
+	* [x] Generic Methods
+	* [x] Generics and Arrays
+	* [x] Generic Delegates
+	* [x] Generics and Reflection
+	* [x] Generics and Attributes
+* [x] Namespaces
+* [x] Unsafe code and Points
+* [x] Exception and Exception Handling
+* [x] File System and File Handling
 
-* [ ] Collections
-	* [ ] What are collections
-	* [ ] List, IList, Enumerable, IEnumerable
-	* [ ] Dictionary, Lookup
-	* [ ] LINQ methods
-		* [ ] Query Syntax
-		* [ ] Fluent Syntax
-	* [ ] Some Collections methods concepts
-		* [ ] Map method [Select]
-		* [ ] Filter method [Where]
-		* [ ] Aggregate
-		* [ ] SOME / ANY  / ALL etc
-		* [ ] Language specific functions / syntax for the above concepts
+* [x] Collections
+	* [x] What are collections
+	* [x] List, IList, Enumerable, IEnumerable
+	* [x] Dictionary, Lookup
+	* [x] LINQ methods
+		* [x] Query Syntax
+		* [x] Fluent Syntax
+	* [x] Some Collections methods concepts
+		* [x] Map method [Select]
+		* [x] Filter method [Where]
+		* [x] Aggregate
+		* [x] SOME / ANY  / ALL etc
+		* [x] Language-specific functions/syntax for the above concepts
 
 
 
 
 ## 2. Object Oriented Basics :
-* [ ] Class
-* [ ] Interface
-* [ ] Inheritance 
-* [ ] Composition 
-* [ ] Why composition over inheritance?
-* [ ] Access modifier [Public,Private, Protected, Internal] and when to use them
-* [ ] Implementing inheritance
-* [ ] Interface inheritance
-* [ ] static methods and properties
-* [ ] Overloading [When to use them, when not to use them]
-* [ ] Sealing class
-* [ ] Extension methods
-	* [ ] What are they
-	* [ ] How are they useful
-	* [ ] How to use them
-	* [ ] How to create custom extension methods
-* [ ] Attributes
-	* [ ] What are they
-	* [ ] How to write custom attributes
+* [x] Class
+* [x] Interface
+* [x] Inheritance 
+* [x] Composition 
+* [x] Why composition over inheritance?
+* [x] Access modifier [Public,Private, Protected, Internal] and when to use them
+* [x] Implementing inheritance
+* [x] Interface inheritance
+* [x] static methods and properties
+* [x] Overloading [When to use them, when not to use them]
+* [x] Sealing class
+* [x] Extension methods
+	* [x] What are they
+	* [x] How are they useful
+	* [x] How to use them
+	* [x] How to create custom extension methods
+* [x] Attributes
+	* [x] What are they
+	* [x] How to write custom attributes
 ## 3. .Net Core MVC
 *  Tutorial Web Apps : https://docs.microsoft.com/en-us/learn/modules/create-razor-pages-aspnet-core/?view=aspnetcore-3.1
 * Tutorial : Security : https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/?view=aspnetcore-3.1
@@ -108,134 +108,134 @@ Reference can be found here :
 ### 3.1 Fundamentals
 * https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-3.1&tabs=windows
   
-* [ ] Startup Class
-* [ ] Dependency Injection ( Services )
-* [ ] Servers ( Kestrel and Reverse Proxy )
-* [ ] Environments ( Dev, Stage, Prod )
-* [ ] Basic Routing ( Model View Controller )
-* [ ] Logging
-* [ ] Error Handling
-* [ ] Static Files
-* [ ] Views
-* [ ] Controller
-* [ ] Model
-* [ ] Tag Helpers
-	* [ ] Anchor
-	* [ ] Form
-	* [ ] Input
-	* [ ] Label
-	* [ ] Link
-	* [ ] Image
-	* [ ] Select
-	* [ ] Textarea
-	* [ ] Validation Message
+* [x] Startup Class
+* [x] Dependency Injection ( Services )
+* [x] Servers ( Kestrel and Reverse Proxy )
+* [x] Environments ( Dev, Stage, Prod )
+* [x] Basic Routing ( Model View Controller )
+* [x] Logging
+* [x] Error Handling
+* [x] Static Files
+* [x] Views
+* [x] Controller
+* [x] Model
+* [x] Tag Helpers
+	* [x] Anchor
+	* [x] Form
+	* [x] Input
+	* [x] Label
+	* [x] Link
+	* [x] Image
+	* [x] Select
+	* [x] Textarea
+	* [x] Validation Message
 
 ### 3.2 Basic Clean Code Practices
-* [ ]  Why ? 
-* [ ] Benefis
-* [ ] Naming ( with examples )
-	* [ ] Intention Revealing Names
-	* [ ] Avoid Disinformation
-	* [ ] Meaningful Distinctions
-	* [ ] Pronounceable Names
-	* [ ] Searchable Names
-	* [ ] Avoid Mental Mapping
-	* [ ] Class Names
-	* [ ] Method Names
-	* [ ] Property Names
-	* [ ] Solution Based Domain Names
-	* [ ] Meaningful Context
-* [ ] Functions
-	* [ ] Blocks  and Indentation / Formatting
-	* [ ] Switch Statements
-	* [ ] Using Descriptive Names
-	* [ ] Functions Arguments / Parameters
-		* [ ] Parameter Counts and Limit
-		* [ ] Flag Parameters
-		* [ ] Dyadic Functions
-		* [ ] Triads
-		* [ ] Argument Lists
-		* [ ] Argument Naming
-* [ ] Command Query Separation 
-* [ ] CQS Exception
-* [ ] Exceptions
-* [ ] Comments
-	* [ ] Good Comments
-	* [ ] When to Write Comments
-	* [ ] Why we avoid comments
-* [ ] Code, HTML, CSS Formatting
+* [x]  Why ? 
+* [x] Benefis
+* [x] Naming ( with examples )
+	* [x] Intention Revealing Names
+	* [x] Avoid Disinformation
+	* [x] Meaningful Distinctions
+	* [x] Pronounceable Names
+	* [x] Searchable Names
+	* [x] Avoid Mental Mapping
+	* [x] Class Names
+	* [x] Method Names
+	* [x] Property Names
+	* [x] Solution Based Domain Names
+	* [x] Meaningful Context
+* [x] Functions
+	* [x] Blocks  and Indentation / Formatting
+	* [x] Switch Statements
+	* [x] Using Descriptive Names
+	* [x] Functions Arguments / Parameters
+		* [x] Parameter Counts and Limit
+		* [x] Flag Parameters
+		* [x] Dyadic Functions
+		* [x] Triads
+		* [x] Argument Lists
+		* [x] Argument Naming
+* [x] Command Query Separation 
+* [x] CQS Exception
+* [x] Exceptions
+* [x] Comments
+	* [x] Good Comments
+	* [x] When to Write Comments
+	* [x] Why we avoid comments
+* [x] Code, HTML, CSS Formatting
 
 ### 3.3 Basic DDD Concepts
 * https://domainlanguage.com/
 * https://domainlanguage.com/ddd/reference/
 
-* [ ] Entity 
-* [ ] Value Objects
-* [ ] Services
-* [ ] Modules
-* [ ] Aggregates
-* [ ] Repositories
-* [ ] Factories
-* [ ] Understanding Core Domain
+* [x] Entity 
+* [x] Value Objects
+* [x] Services
+* [x] Modules
+* [x] Aggregates
+* [x] Repositories
+* [x] Factories
+* [x] Understanding Core Domain
 ### 3.4 Basic Unit Test
-* [ ]  Setup Method
-* [ ]  Exception Testing
-* [ ]  Dependant Tests
-* [ ]  Mocking
-* [ ] Spy Object
-* [ ] Multiple Assertions
+* [x]  Setup Method
+* [x]  Exception Testing
+* [x]  Dependant Tests
+* [x]  Mocking
+* [x] Spy Object
+* [x] Multiple Assertions
 
 ## 4 Dependency injection
-* [ ] What
-* [ ] Why
-* [ ] How to use them
-* [ ] Asp.Net core DI
-* [ ] Configuration in Startup
-* [ ] Can the configuration be moved to individual projects?
+* [x] What
+* [x] Why
+* [x] How to use them
+* [x] Asp.Net core DI
+* [x] Configuration in Startup
+* [x] Can the configuration be moved to individual projects?
 
 ## 5 Database Concepts
 Mainly MySQL based
-* [ ] Data Types
-	* [ ] Int { All types }	
-		* [ ] Tiny Int
-		* [ ] Small Int
-		* [ ] Medium Int
-		* [ ] Big Int
-	* [ ] Decimal 
-		* [ ] Float, Double
-		* [ ] Single bit : bit
-		* [ ] Serial
-		* [ ] Boolean
-		* [ ] ZeroFill types
-		* [ ] Unsigned and Signed
-	* [ ] Date / Time
-		* [ ] Date
-		* [ ] Time
-		* [ ] DateTime
-	* [ ] TimeStamp
-		* [ ] Year
-		* [ ] String
-		* [ ] Char
-		* [ ] VarChar
-		* [ ] Enum
-	* [ ] Binary
-	* [ ] VarBinary
-	* [ ] TinyBlob
-	* [ ] Blob
-	* [ ] Long Blog
-	* [ ] Tiny Text
-	* [ ] Text
-	* [ ] Long Text
-	* [ ] SET
-* [ ] Data type deciding principle
-* [ ] Difference between Varchar and Char
-* [ ] Unicode Support Type
-* [ ] Concept of Character Sets and Unicode Support Characters Sets
+* [x] Data Types
+	* [x] Int { All types }	
+		* [x] Tiny Int
+		* [x] Small Int
+		* [x] Medium Int
+		* [x] Big Int
+	* [x] Decimal 
+		* [x] Float, Double
+		* [x] Single bit : bit
+		* [x] Serial
+		* [x] Boolean
+		* [x] ZeroFill types
+		* [x] Unsigned and Signed
+	* [x] Date / Time
+		* [x] Date
+		* [x] Time
+		* [x] DateTime
+	* [x] TimeStamp
+		* [x] Year
+		* [x] String
+		* [x] Char
+		* [x] VarChar
+		* [x] Enum
+	* [x] Binary
+	* [x] VarBinary
+	* [x] TinyBlob
+	* [x] Blob
+	* [x] Long Blog
+	* [x] Tiny Text
+	* [x] Text
+	* [x] Long Text
+	* [x] SET
+* [x] Data type deciding principle
+* [x] Difference between Varchar and Char
+* [x] Unicode Support Type
+* [x] Concept of Character Sets and Unicode Support Characters Sets
 
-* [ ] Rows / Columns
-	* [ ] Size of Rows
-	* [ ] Column Sizes
-	* [ ] Column Ordering
+* [x] Rows / Columns
+	* [x] Size of Rows
+	* [x] Column Sizes
+	* [x] Column Ordering
 	* [ ] Proper Column Naming
 	* [ ] Large Table Concept
 	* [ ] Performance Implication of Rows vs Columns
